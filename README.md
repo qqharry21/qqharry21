@@ -9,7 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://haochen.vercel.app/](https://haochen.vercel.app/)
 
-- 💬 Ask me about **React, Nodejs, TailwindCSS**
+- 👨🏻‍🔧 Here is my portfolio [https://haochen.vercel.app/](https://haochen.vercel.app/)
+
+- 💬 Ask me about **React, Nodejs, Nextjs, TailwindCSS**
 
 - 📫 How to reach me **qqharry21@gmail.com**
 

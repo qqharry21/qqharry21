@@ -11,7 +11,7 @@
 
 - 👨🏻‍🔧 Here is my portfolio [https://haochen.vercel.app/](https://haochen.vercel.app/)
 
-- 💬 Ask me about **React, Nodejs, Nextjs, TailwindCSS**
+- 💬 Ask me about **React, Nodejs, Nextjs, TailwindCSS, MySQL**
 
 - 📫 How to reach me **qqharry21@gmail.com**
 

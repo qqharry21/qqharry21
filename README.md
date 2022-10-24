@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **qqharry21@gmail.com**
 
-- 📄 Know about my experiences [https://chenchuanhao.com/Harry Chen's Resume.pdf](https://chenchuanhao.com/Harry Chen's Resume.pdf)
+- 📄 Know about my experiences [https://chenchuanhao.com/resume.pdf](https://chenchuanhao.com/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs and TailwindCSS and GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://chenchuanhao.com/](https://chenchuanhao.com)
+- 👨‍💻 All of my projects are available at [https://chenchuanhao.com](https://chenchuanhao.com)
 
 - 👨🏻‍🔧 Here is my portfolio [https://chenchuanhao.com](https://chenchuanhao.com)
 

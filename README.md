@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Harry Chen</h1>
-<h3 align="center">A Jr. Full Stack Developer from Taiwan</h3>
+<h3 align="center">A Jr. Frontend Developer from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qqharry21&label=Profile%20views&color=0e75b6&style=flat" alt="qqharry21" /> </p>
 
 - 🔭 I’m currently working on [神通資訊科技(Mitac)](https://www.mitac.com.tw/)
 
-- 🌱 I’m currently learning **Nextjs and TailwindCSS**
+- 🌱 I’m currently learning **Nextjs and TailwindCSS and GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://haochen.vercel.app/](https://haochen.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://chenchuanhao.com/](https://chenchuanhao.com)
 
-- 👨🏻‍🔧 Here is my portfolio [https://haochen.vercel.app/](https://haochen.vercel.app/)
+- 👨🏻‍🔧 Here is my portfolio [https://chenchuanhao.com](https://chenchuanhao.com)
 
-- 💬 Ask me about **React, Nodejs, Nextjs, TailwindCSS, MySQL**
+- 💬 Ask me about **React, Javascript, HTML, CSS, Nodejs, Nextjs, MySQL, Java**
 
 - 📫 How to reach me **qqharry21@gmail.com**
 
-- 📄 Know about my experiences [https://haochen.vercel.app/resume.pdf](https://haochen.vercel.app/resume.pdf)
+- 📄 Know about my experiences [https://chenchuanhao.com/Harry Chen's Resume.pdf](https://chenchuanhao.com/Harry Chen's Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

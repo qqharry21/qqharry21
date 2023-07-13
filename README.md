@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qqharry21&label=Profile%20views&color=0e75b6&style=flat" alt="qqharry21" /> </p>
 
-- 🔭 I’m currently working on [Wistronits]([https://www.XXX.com.tw/](https://www.wistronits.com/en/))
+- 🔭 I’m currently working on [Wistronits](https://www.wistronits.com/en/)
 
 - 🌱 I’m currently learning **Nextjs and TailwindCSS**
 

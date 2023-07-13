@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qqharry21&label=Profile%20views&color=0e75b6&style=flat" alt="qqharry21" /> </p>
 
-- 🔭 I’m currently working on [XXX](https://www.XXX.com.tw/)
+- 🔭 I’m currently working on [Wistronits]([https://www.XXX.com.tw/](https://www.wistronits.com/en/))
 
-- 🌱 I’m currently learning **Nextjs and TailwindCSS and GraphQL**
+- 🌱 I’m currently learning **Nextjs and TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://chenchuanhao.com](https://chenchuanhao.com)
 

@@ -40,9 +40,6 @@
 
 <h2 align="center">🏆 My Stats</h3>
 
-<p align="center">
-  <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qqharry21&show_icons=true&count_private=true&theme=dark" /> 
- </p>
  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qqharry21&show_icons=true&hide_border=true&locale=en&layout=compact" alt="qqharry21" />
  </p>

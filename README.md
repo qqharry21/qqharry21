@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [Wits](https://www.wits.com/tw/)
 
-- 🌱 I’m passionate about **Nextjs and Python**
+- 🌱 I’m passionate about **React and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://chenchuanhao.com](https://chenchuanhao.com)
 

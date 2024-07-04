@@ -19,8 +19,6 @@
 
 - 🌱 I’m passionate about **React and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://chenchuanhao.com](https://chenchuanhao.com)
-
 - 👨🏻‍🔧 Here is my portfolio [https://chenchuanhao.com](https://chenchuanhao.com)
 
 - 📫 How to reach me **qqharry21@gmail.com**
